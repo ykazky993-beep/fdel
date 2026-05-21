@@ -6,7 +6,7 @@ fuzzy deleted, auto tree file
 >cd fdel
 >pip install .
 
-# How To Use >fdel
+# How To Use fdel
 >fdel explore {path}
 
 its will explore folder/file in that path
