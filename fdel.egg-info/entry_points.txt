@@ -1,0 +1,2 @@
+[console_scripts]
+fdel = fdel.cli:main

@@ -1,0 +1,10 @@
+setup.py
+fdel/__init__.py
+fdel/cli.py
+fdel/core.py
+fdel/explorer.py
+fdel.egg-info/PKG-INFO
+fdel.egg-info/SOURCES.txt
+fdel.egg-info/dependency_links.txt
+fdel.egg-info/entry_points.txt
+fdel.egg-info/top_level.txt

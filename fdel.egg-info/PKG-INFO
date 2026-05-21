@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fdel
+Version: 5.2.0
+Summary: find and delete file/folder with fuzzy matching
+Author: ykaz
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
